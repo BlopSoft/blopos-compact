@@ -1,0 +1,7 @@
+PRETTY_NAME="Blop OS Compact 0.9"
+NAME="Blop OS Compact"
+VERSION_ID="0.9"
+VERSION="Compact 0.9"
+VERSION_CODENAME=compact
+ID=blopos
+ID_LIKE=debian
