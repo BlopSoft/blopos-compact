@@ -1,14 +1,12 @@
 lxde-core
 firefox-esr
+chromium
 qbittorrent
-libreoffice-core
-libreoffice-writer
-libreoffice-calc
-libreoffice-impress
+abiword
+gnumeric
 gpicview
 vlc
 gimp
-nano
 mousepad
 gparted
 lxterminal
@@ -16,4 +14,7 @@ galculator
 xarchiver
 pulseaudio
 alsa-utils
+pavucontrol
+lxrandr
 network-manager
+zenity
